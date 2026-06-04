@@ -94,7 +94,7 @@ This project was built to strengthen frontend development skills by practicing:
 
 ### Hrum Kashif
 
-** MERN Stack Learner | Frontend Developer | AI Engineering Trainee**
+**MERN Stack Learner | Frontend Developer | AI Engineering Trainee**
 
 Passionate about building responsive and interactive web applications while continuously exploring modern frontend technologies and AI-driven solutions.
 
