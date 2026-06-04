@@ -1,5 +1,3 @@
-#Manual-Coding
-
 # 👕 Clothing Store Landing Page
 
 A modern and responsive fashion landing page developed using **HTML, CSS, and JavaScript**. This project focuses on creating an elegant shopping experience with a clean UI, promotional sections, product showcases, and interactive navigation.
