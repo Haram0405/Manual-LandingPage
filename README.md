@@ -89,6 +89,13 @@ This project was built to strengthen frontend development skills by practicing:
 - Backend Integration
 - Authentication System
 
+---
+
+## 🌟 Live View of Manual Code
+https://www.loom.com/share/cb9397532c754ef181652b84b0ce0afb
+
+
+---
 
 ## 👩‍💻 Developer
 
